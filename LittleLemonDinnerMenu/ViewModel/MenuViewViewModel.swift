@@ -32,7 +32,7 @@ class MenuViewViewModel {
         MenuItem(title: "Tea", price: 3.00, isPopular: true, ingredients: [], menuCategory: .Drink, ordersCount: 4444),
         MenuItem(title: "Caffe", price: 3.00, isPopular: true, ingredients: [], menuCategory: .Drink, ordersCount: 3333),
         MenuItem(title: "Whiskey", price: 25.00, isPopular: true, ingredients: [], menuCategory: .Drink, ordersCount: 2222),
-        MenuItem(title: "Whine", price: 15.00, isPopular: true, ingredients: [], menuCategory: .Drink, ordersCount: 1111),
+        MenuItem(title: "Wine", price: 15.00, isPopular: true, ingredients: [], menuCategory: .Drink, ordersCount: 1111),
     ]
     
     let dessertItems: [MenuItem] = [
